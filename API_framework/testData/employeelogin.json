@@ -1,6 +1,6 @@
 {
     "email": "{{EMAIL}}",
-    "password": "abcdef",
+    "password": "",
     "device_token": "",
     "domain_name": "optimworks",
     "id": "{{ID}}"
