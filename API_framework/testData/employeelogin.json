@@ -1,0 +1,7 @@
+{
+    "email": "{{EMAIL}}",
+    "password": "abcdef",
+    "device_token": "",
+    "domain_name": "optimworks",
+    "id": "{{ID}}"
+}

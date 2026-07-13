@@ -1,0 +1,16 @@
+
+# Playwright
+node_modules/
+/test-results/
+/playwright-report/
+/blob-report/
+/playwright/.cache/
+/playwright/.auth/
+/tests/framework1/
+/allure-report/
+/allure-results/
+/framework/
+/tests/APIUrbuddi.framework.spec.js
+/tests/APIUrbuddi.spec.js
+/API_framework/config/config.json
+/API_framework/testData/Adminlogin.json

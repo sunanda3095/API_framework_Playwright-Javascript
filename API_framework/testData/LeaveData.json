@@ -1,0 +1,12 @@
+{
+    "days": 1,
+    "employee_email": "{{EMAIL}}",
+    "employee_id": "{{ID}}",
+    "end_date": "2026-07-26",
+    "hr_email": "judos@gmail.com",
+    "leave_reason": "asdfdaf",
+    "request_type": "Leave",
+    "start_date": "2026-07-26",
+    "status": "Awaiting",
+    "subject": "describe"
+}

@@ -1,0 +1,22 @@
+{
+  "address": "hyd",
+  "blood_group": "O+",
+  "date_of_birth": "2026-07-02",
+  "department": "cse",
+  "designation": "trainee",
+  "email": "{{EMAIL}}",
+  "first_name": "Sdsfdf",
+  "gender": "Male",
+  "id":"{{ID}}",
+  "joining_date": "2026-07-08",
+  "last_name": "Sdsfdf",
+  "mobile_number": "8989898989",
+  "password": "abcdef",
+  "past_experience": "2",
+  "personal_email": "{{PERSONAL_EMAIL}}",
+  "qualifications": "Degree",
+  "reporting_to": "when@gmail.com",
+  "role": "Employee",
+  "salary": "30000",
+  "uan_number": ""
+}
