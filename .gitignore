@@ -11,6 +11,5 @@ node_modules/
 /allure-results/
 /framework/
 /tests/APIUrbuddi.framework.spec.js
-/tests/APIUrbuddi.spec.js
 /API_framework/config/config.json
 /API_framework/testData/Adminlogin.json
